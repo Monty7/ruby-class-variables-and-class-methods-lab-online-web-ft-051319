@@ -45,4 +45,4 @@ class Song
   end
 end
 
-Song.artists
+puts Song.artists
