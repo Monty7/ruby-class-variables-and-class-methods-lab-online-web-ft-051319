@@ -44,3 +44,5 @@ class Song
     result
   end
 end
+
+Song.artists
